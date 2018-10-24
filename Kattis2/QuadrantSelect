@@ -1,6 +1,0 @@
-#include <fiostream>
-using namespace std;
-
-int main() {
-
-}
